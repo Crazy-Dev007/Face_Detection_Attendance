@@ -94,7 +94,7 @@ Here's a blank template to get started:
 
 ### Built With
 
-* []()
+* [python]()
 * []()
 * []()
 
@@ -174,7 +174,7 @@ Project Link: [https://github.com/Crazy-Dev007/Face_Detection_Attendance](https:
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
 
-* [python]()
+* []()
 * []()
 * []()
 
